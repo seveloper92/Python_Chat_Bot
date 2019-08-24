@@ -1,5 +1,4 @@
-           
-              <br>Language : Python
+          <br>Language : Python
               <br>OS  :  Windows
               <br>Web Server  :  Flask
               <br>Server Hosting  :  Heroku
@@ -11,4 +10,3 @@
               <br>특정 감정 선택시 사용자에게 관련된 책정보를 추천합니다.
               <br>해당 서비스는 Telegram에서 Chaek_bot검색을 통해
               <br>바로 만나보실 수 있습니다.</h5>
-              <br>※ Heroku 서버의 sleep상태로 첫 시동시 30초의 대기시간이 발생 할 수 있음.<br><br>
